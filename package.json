@@ -1,0 +1,11 @@
+{
+  "name": "shopping-cart-total",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "José F. Romaniello <jfromaniello@gmail.com> (https://joseoncode.com/)",
+  "license": "MIT"
+}
